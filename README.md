@@ -2,7 +2,7 @@
 #  LH Nautical – Data Pipeline Project
 <p align="center">
   <b>End-to-end data pipeline for financial and inventory analytics</b><br>
-  Built with Python, PostgreSQL and Power BI
+  Built with Python, PostgreSQL and BI
 </p>
 
 
@@ -42,7 +42,7 @@ This project aims to solve these issues by creating a centralized and scalable d
 * **Python** → Data ingestion & transformation
 * **PostgreSQL** → Data storage
 * **SQL** → Data modeling & queries
-* **Power BI** → Data visualization
+* **BI** → Data visualization
 
 ---
 
@@ -51,7 +51,7 @@ This project aims to solve these issues by creating a centralized and scalable d
 1. **Data Ingestion** → Collect raw data (CSV / systems)
 2. **Data Transformation** → Clean and process data using Python
 3. **Data Storage** → Store structured data in PostgreSQL
-4. **Data Analysis & Visualization** → Build dashboards in Power BI
+4. **Data Analysis & Visualization** → Build dashboards in BI
 
 ---
 
