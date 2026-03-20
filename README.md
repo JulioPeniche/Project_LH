@@ -1,5 +1,5 @@
 
-# 🚢 LH Nautical – Data Pipeline Project
+#  LH Nautical – Data Pipeline Project
 <p align="center">
   <b>End-to-end data pipeline for financial and inventory analytics</b><br>
   Built with Python, PostgreSQL and Power BI
@@ -15,13 +15,13 @@ The objective is to design and implement an end-to-end data pipeline that transf
 
 ---
 
-## 🧠 Business Problem
+##  Business Problem
 
 LH Nautical currently faces:
 
-* 📉 Disorganized inventory control (manual spreadsheets)
-* 🔌 Lack of integration between e-commerce and financial systems
-* 🎯 Decision-making based on intuition rather than data
+*  Disorganized inventory control (manual spreadsheets)
+*  Lack of integration between e-commerce and financial systems
+*  Decision-making based on intuition rather than data
 
 This project aims to solve these issues by creating a centralized and scalable data solution.
 
@@ -37,7 +37,7 @@ This project aims to solve these issues by creating a centralized and scalable d
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Python** → Data ingestion & transformation
 * **PostgreSQL** → Data storage
@@ -46,7 +46,7 @@ This project aims to solve these issues by creating a centralized and scalable d
 
 ---
 
-## 🔄 Data Pipeline Architecture
+##  Data Pipeline Architecture
 
 1. **Data Ingestion** → Collect raw data (CSV / systems)
 2. **Data Transformation** → Clean and process data using Python
@@ -55,7 +55,7 @@ This project aims to solve these issues by creating a centralized and scalable d
 
 ---
 
-## 📊 Key Features
+##  Key Features
 
 * End-to-end data pipeline
 * Data cleaning and transformation
@@ -76,7 +76,7 @@ This project aims to solve these issues by creating a centralized and scalable d
 
 ---
 
-## 📈 Expected Outcomes
+##  Expected Outcomes
 
 * Improved inventory visibility
 * Better financial insights
@@ -85,7 +85,7 @@ This project aims to solve these issues by creating a centralized and scalable d
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Implement orchestration (Airflow)
 * Deploy pipeline to cloud (AWS / GCP)
@@ -94,7 +94,7 @@ This project aims to solve these issues by creating a centralized and scalable d
 
 ---
 
-## 👤 Author
+##  Author
 
 Julio Peniche
 Data Analytics | BI | Cloud | Fintech Focus
