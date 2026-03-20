@@ -94,16 +94,10 @@ This project aims to solve these issues by creating a centralized and scalable d
 
 ---
 
+
 ##  Author
 
-Julio Peniche
-Data Analytics | BI | Cloud | Fintech Focus
+**Julio Peniche**  
+Data Analytics | BI | Cloud | Fintech Focus  
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-Data%20Pipeline-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Status-In%20Progress-green)
-
-</p>
+[LinkedIn](https://www.linkedin.com/in/julio-peniche-cloud)
