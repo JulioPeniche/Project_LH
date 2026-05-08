@@ -1,5 +1,5 @@
 
-#  LH Nautical – Data Pipeline Project
+#  LH Nautical – Data Pipeline Project #
 <p align="center">
   <b>End-to-end data pipeline for financial and inventory analytics</b><br>
   Built with Python, PostgreSQL and BI
